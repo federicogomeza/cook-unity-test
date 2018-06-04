@@ -3,14 +3,14 @@
 }
 
 .App-logo {
-  height: 30px;
+  height: 1.87rem;
 }
 
 .App-header {
   background-color: white;
   border-bottom-color: black;
-  height: 20px;
-  padding: 20px;
+  height: 1.25rem;
+  padding: 1.25rem;
   color: white;
 }
 
@@ -18,14 +18,14 @@
   background-color: #e5e5e5;
   display: flex;
   justify-content: center;
-  padding: 1em;
+  padding: 1rem;
   flex: 1 0 auto;
   align-items: center;
   flex-direction: column;
   flex-wrap: wrap;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 48rem) {
   .App-main {
     flex-direction: row;
   }
